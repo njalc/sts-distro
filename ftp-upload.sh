@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "UPLOAD"
+sftp "$1"@"$2" < batchfile.sftp
