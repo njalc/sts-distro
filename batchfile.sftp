@@ -1,2 +1,3 @@
-put in/* /upload
+put /home/tomcat9/Library/Application_Support/Mac-Lloyd/SportTrackingFusion/ICP/* /home/tomcat9/Library/Application_Support/Mac-Lloyd/SportTrackingFusion/ICP
+put /home/tomcat9/Library/Application_Support/Mac-Lloyd/SportTrackingFusion/GNET/* /home/tomcat9/Library/Application_Support/Mac-Lloyd/SportTrackingFusion/GNET
 bye
